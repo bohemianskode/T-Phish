@@ -1,10 +1,15 @@
 # T-Phish
+## Bohemia-Vicky
 
-## Tentang T-Phish :
+### Tentang T-Phish :
 
-T-Phish adalah alat phishing yang hebat dan sangat berguna untuk pengguna seluler ataupun PC dan alat ini sudah dimodifikasi dengan benar oleh kami
+T-Phish adalah alat phishing yang hebat yang dibuat oleh anak kampung yang yang pendiam dan baik hati serta sangat berguna untuk pengguna seluler ataupun PC dan alat ini sudah dimodifikasi dengan benar oleh kami.
 
-### ini adalah panduan instalasi dan penggunaannya
+#### KRITERIA SOSIAL MEDIA FACEBOOK-PHISHING, WHATSAAP-PHISHING, FACEBOOK-GROUP, FACEBOOK-PHOTO, FACEBOOK-VERIFIKASI, GITHUB, GOOGLE-OTP, HOTSTAR-OTPBYPASS, INSTA-POLLOW, INSTAGRAM, IPINDER, LINKEDIN, NETFLIX, PAYTM-PHISHING, DAN SPOTY.
+
+##### TINGGAL KALIAN YANG BEKERJA, INGAT INI HANYA UNTUK PENDIDIKAN
+
+###### dan ini adalah panduan instalasi dan penggunaannya
 ```
 ```
 $ apt-get update -y
@@ -49,7 +54,7 @@ $ ./phish.sh
 
 ### Warning
 
-*** ALAT INI KAMI BUAT UNTUK PENDIDIKAN SAJA, BILAMANA DILUAR KENDALI MAKA KAMI TIDAK BERTANGGUNG (SALAM BIJAK). ***
+*** ALAT INI KAMI BUAT UNTUK PENDIDIKAN SAJA, BILAMANA DILUAR KENDALI MAKA KAMI TIDAK BERTANGGUNG JAWAB (SALAM BIJAK). ***
 
 
 
