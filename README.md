@@ -3,7 +3,7 @@
 
 ### Tentang T-Phish :
 
-T-Phish adalah alat phishing yang hebat yang dibuat oleh anak kampung yang yang pendiam dan baik hati serta sangat berguna untuk pengguna seluler ataupun PC dan alat ini sudah dimodifikasi dengan benar oleh kami.
+T-Phish adalah alat phishing yang hebat yang dibuat oleh anak kampung yang pendiam dan baik hati serta sangat berguna untuk pengguna seluler ataupun PC dan alat ini sudah dimodifikasi dengan benar oleh kami.
 
 #### KRITERIA SOSIAL MEDIA FACEBOOK-PHISHING, WHATSAAP-PHISHING, FACEBOOK-GROUP, FACEBOOK-PHOTO, FACEBOOK-VERIFIKASI, GITHUB, GOOGLE-OTP, HOTSTAR-OTPBYPASS, INSTA-POLLOW, INSTAGRAM, IPINDER, LINKEDIN, NETFLIX, PAYTM-PHISHING, DAN SPOTY.
 
