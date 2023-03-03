@@ -9,6 +9,9 @@ T-Phish adalah alat phishing yang hebat yang dibuat oleh anak kampung yang pendi
 
 ##### TINGGAL KALIAN YANG BEKERJA, INGAT INI HANYA UNTUK PENDIDIKAN. DAN TUNGGU PEMBUATAN EDITOR KODE LAINNYA SAYA AKAN BUAT AUTO SUBCRIBE, AUTO LIKE (YOUTUBE) DAN AUTO FOLLOW INSTAGRAM. SEMOGA BERMANFAT "SAATNYA UNTUK BERBAGI"
 
+![1](https://user-images.githubusercontent.com/68543155/222848120-410e7155-137d-4db6-9c2f-68fe38f8e363.jpg)
+
+
 ###### ini adalah panduan instalasi dan penggunaannya
 ```
 ```
